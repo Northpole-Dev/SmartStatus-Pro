@@ -1,15 +1,12 @@
 SmartStatus Watch App
 =====================
 
-IMPORTANT: This is the version of SmartStatus that only works with the App Store version of Smartwatch+
+IMPORTANT: This is the version of SmartStatus that only works with Smartwatch Pro
 
-The SmartStatus watch app only works in conjunction with the Smartwatch+ iOS app. [Smartwatch+](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?ls=1&mt=8) is available on the Apple App Store.
+The SmartStatus watch app only works in conjunction with the Smartwatch Pro iOS app. [Smartwatch Pro](https://itunes.apple.com/app/smartwatch-pro-for-pebble/id673907094?mt=8) is available on the Apple App Store.
 
-This code provides an example of how to communicate with Smartwatch+ and how to use status information from your iOS device within your own watch face or app. The status information that is currently available to you through Smartwatch+ is
+This code provides an example of how to communicate with Smartwatch Pro and how to use status information from your iOS device within your own watch face or app. The status information that is currently available to you through Smartwatch Pro is
 
-* Current weather
 * iPhone battery percentage
 * Currently playing song/artist
 * Next calendar appointment
-
-![SmartStatus watchapp](https://raw.github.com/robhh/SmartStatus-AppStore/master/SmartStatus.jpg)
